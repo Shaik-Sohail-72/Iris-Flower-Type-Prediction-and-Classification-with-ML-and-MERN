@@ -2,6 +2,7 @@
 
 ## Description : 
 This project predicts the type of iris flower by using machine learning and iris dataset. K-Nearest-Neighbor algorithm used for multi class classification.
+https://iris-flower-72.herokuapp.com/
 
 ![Screenshot (600)](https://user-images.githubusercontent.com/106341416/198973350-e043537d-0aa7-44a4-8279-03dfe83c6905.png)
 ![Screenshot (601)](https://user-images.githubusercontent.com/106341416/198973372-28da553b-c4a3-4b13-8ffb-86e545d6d7f6.png)
